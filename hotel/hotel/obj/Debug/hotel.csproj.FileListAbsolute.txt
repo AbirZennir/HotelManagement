@@ -1,0 +1,13 @@
+C:\Users\abir\source\repos\hotel\hotel\bin\Debug\hotel.exe.config
+C:\Users\abir\source\repos\hotel\hotel\bin\Debug\hotel.exe
+C:\Users\abir\source\repos\hotel\hotel\bin\Debug\hotel.pdb
+C:\Users\abir\source\repos\hotel\hotel\obj\Debug\hotel.csproj.AssemblyReference.cache
+C:\Users\abir\source\repos\hotel\hotel\obj\Debug\hotel.loginForm.resources
+C:\Users\abir\source\repos\hotel\hotel\obj\Debug\hotel.Properties.Resources.resources
+C:\Users\abir\source\repos\hotel\hotel\obj\Debug\hotel.csproj.GenerateResource.cache
+C:\Users\abir\source\repos\hotel\hotel\obj\Debug\hotel.csproj.CoreCompileInputs.cache
+C:\Users\abir\source\repos\hotel\hotel\obj\Debug\hotel.exe
+C:\Users\abir\source\repos\hotel\hotel\obj\Debug\hotel.pdb
+C:\Users\abir\source\repos\hotel\hotel\bin\Debug\Guna.UI2.dll
+C:\Users\abir\source\repos\hotel\hotel\obj\Debug\hotel.csproj.Up2Date
+C:\Users\abir\source\repos\hotel\hotel\obj\Debug\hotel.MainForm.resources
